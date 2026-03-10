@@ -147,7 +147,7 @@ public class Inscripcion{
 
         for (int i = 0; i < contadorCursos; i++) {
 
-            System.out.println((i+1) + ". "
+            System.out.println((i) + ". "
                     + cursos[i].getNombreClase()
                     + " (" + cursos[i].getCodigoClase() + ")");
         }
@@ -169,7 +169,7 @@ public class Inscripcion{
 
         for (int i = 0; i < contadorEstudiantes; i++) {
 
-            System.out.println((i+1) + ". "
+            System.out.println((i) + ". "
                     + estudiantes[i].getNombre()
                     + " " + estudiantes[i].getApellido());
         }
@@ -191,7 +191,7 @@ public class Inscripcion{
 
         for (int i = 0; i < contadorEstudiantes; i++) {
 
-            System.out.println((i+1) + ". "
+            System.out.println((i) + ". "
                     + estudiantes[i].getNombre()
                     + " " + estudiantes[i].getApellido());
         }
@@ -213,7 +213,7 @@ public class Inscripcion{
 
         for (int i = 0; i < contadorDocentes; i++) {
 
-            System.out.println((i+1) + ". "
+            System.out.println((i) + ". "
                     + docentes[i].getNombre()
                     + " " + docentes[i].getApellido());
         }
@@ -256,7 +256,7 @@ public class Inscripcion{
 
         for (int i = 0; i < contadorEstudiantes; i++) {
 
-            System.out.println((i+1) + ". "
+            System.out.println((i) + ". "
                     + estudiantes[i].getNombre()
                     + " " + estudiantes[i].getApellido());
         }
@@ -271,7 +271,7 @@ public class Inscripcion{
 
         for (int i = 0; i < contadorDocentes; i++) {
 
-            System.out.println((i+1) + ". "
+            System.out.println((i) + ". "
                     + docentes[i].getNombre()
                     + " " + docentes[i].getApellido());
         }
