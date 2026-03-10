@@ -14,7 +14,7 @@ public class Inscripcion {
         do {
             System.out.print("""
             ====================================
-                    SISTEMA INSCRIPCIONES (POLIMÓRFICO)
+                    SISTEMA INSCRIPCIONES
             ====================================
             1. Registrar estudiante
             2. Registrar docente
